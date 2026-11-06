@@ -1,0 +1,36 @@
+keyword,match_type,category,notes
+job,phrase,employment,Job seekers
+jobs,phrase,employment,
+career,phrase,employment,
+careers,phrase,employment,
+hiring,phrase,employment,
+salary,phrase,employment,
+resume,phrase,employment,
+apply,phrase,employment,Review first: "apply" can appear in finance-related intents
+internship,phrase,employment,
+free,phrase,price-seeker,Remove if you offer a genuinely free service or consultation
+diy,phrase,diy,
+how to become,phrase,diy,
+course,phrase,education,Remove if you sell training
+courses,phrase,education,
+training,phrase,education,Remove if you sell training
+certification,phrase,education,
+classes,phrase,education,
+wikipedia,phrase,research,
+definition,phrase,research,
+meaning,phrase,research,
+pdf,phrase,research,
+template,phrase,research,
+used,phrase,purchase-intent,For service businesses that don't sell equipment
+for sale,phrase,purchase-intent,
+craigslist,phrase,marketplace,
+ebay,phrase,marketplace,
+reddit,phrase,research,Review: sometimes high-intent comparison research
+youtube,phrase,research,
+complaint,phrase,support,
+complaints,phrase,support,
+lawsuit,phrase,support,
+scam,phrase,support,
+login,phrase,existing-customer,Existing customers looking for a portal
+sign in,phrase,existing-customer,
+customer service number,phrase,existing-customer,Review: may be your own brand searches
